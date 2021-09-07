@@ -1,0 +1,1 @@
+První dokument do gitu
